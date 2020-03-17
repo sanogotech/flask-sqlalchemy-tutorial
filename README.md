@@ -13,7 +13,7 @@
 Connect your Flask app to a database using Flask-SQLAlchemy. This repository contains source code for the accompanying tutorial on [Hackers and Slackers](https://hackersandslackers.com/manage-database-models-with-flask-sqlalchemy/).
 
 ## Getting Started
-
+TEST :  http://localhost:5000/?user=totogeek&email=geek@yahoo.fr
 Installation is recommended with Pipenv:
 
 ```shell
